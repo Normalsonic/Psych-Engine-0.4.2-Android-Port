@@ -51,6 +51,7 @@ class CreditsState extends MusicBeatState
 			['Emir plays', 'emirplays'. 'Collab who is a Awesome Person', 'https://youtube.com/channel/UCANExMiyDRT5ITDSKyhKa3g', '0xFFD10616'],
 			['Georgechen1296', 'georgechen1296', 'Collab Also a Awesome People', 'https://youtube.com/channel/UCH9N4SNzwE2XineTLwhDccA', '0xFFE01F32'],
 			['NerySonicAwesomeisback', 'a nice person who collab with he friends very very pog'. 'https://youtube.com/channel/UC-22MauRVLz9U7QI-BDB9fQ', '0xFF6475F3'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
